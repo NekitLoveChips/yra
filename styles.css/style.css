@@ -1,0 +1,456 @@
+body {
+    font-family: 'Adamina', serif;
+    background-color: aqua;
+}
+a {
+    color: black;
+    font-family: fantasy;
+    text-decoration: none;
+}
+
+.top-container {
+    width: 240px;
+    height: 366px;
+}
+.Atrokhina {
+    position: absolute;
+    top: 345px;
+    left: 1120px;
+    font-size: 16px;
+}
+.bogdanova {
+    font-size: 16px;
+    position: absolute;
+    top: 345px;
+    left: 8px;
+    width: 210px;
+}
+.table {
+    border-color: black;
+    border: solid;
+    margin: 0;
+    font-family: cursive ;
+}
+.table1 {
+    border-color: black;
+    border: solid;
+    font-family: cursive;
+}
+.table2 {
+    border-color: black;
+    border: solid;
+    
+    font-family: cursive;
+}
+.table3 {
+    border-color: black;
+    border: solid;
+    
+    font-family: cursive;
+}
+.table4 {
+    border-color: black;
+    border: solid;
+    font-family: cursive;
+}
+td {
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    border: black;
+    border: solid;
+}
+.left-container1 {
+    width: 140px;
+}
+.central-container1 {
+    width: 200px;
+}
+.left-container2 {
+    width: 140px;
+}
+.right-container1 {
+    width: 120px;
+}
+.third-page {
+    background-color: aqua;
+}
+.book-1 {
+    text-align: left;
+    padding-top: 100px;
+    margin-top: 10px;
+    margin-left: 15px;
+    width: 200px;
+    height: 300px;
+}
+.book-2 {
+    width: 200px;
+    height: 300px;
+    position: absolute;
+    top: 318px;
+    left: 550px;
+}
+.book-3 {
+    width: 200px;
+    height: 300px;
+    position: absolute;
+    top: 318px;
+    left: 850px;
+}
+.book-4 {
+    text-align: left;
+    margin-left: 15px;
+    margin-top: 100px;
+    width: 200px;
+    height: 300px;
+}
+.book-5 {
+    width: 200px;
+    height: 300px;
+    position: absolute;
+    top: 718px;
+    left: 550px;
+}
+.book-6 {
+    width: 200px;
+    height: 300px;
+    position: absolute;
+    top: 718px;
+    left: 850px;
+}
+.book-7 {
+    text-align: left;
+    margin-left: 15px;
+    margin-top: 130px;
+    width: 200px;
+    height: 300px;
+}
+.book-8 {
+    width: 200px;
+    height: 300px;
+    position: absolute;
+    top: 1148px;
+    left: 550px;
+}
+.book-9 {
+    width: 200px;
+    height: 300px;
+    position: absolute;
+    top: 1148px;
+    left: 850px;
+}
+.book-10 {
+    text-align: left;
+    margin-left: 15px;
+    margin-top: 70px;
+    width: 200px;
+    height: 300px;
+}
+.book-11 {
+    width: 200px;
+    height: 300px;
+    position: absolute;
+    top: 1518px;
+    left: 550px;
+}
+.book-12 {
+    width: 200px;
+    height: 300px;
+    position: absolute;
+    top: 1528px;
+    left: 850px;
+}
+.book-13 {
+    text-align: left;
+    margin-left: 15px;
+    margin-top: 70px;
+    width: 200px;
+    height: 300px;
+}
+.book-14 {
+    width: 200px;
+    height: 300px;
+    position: absolute;
+    top: 1888px;
+    left: 550px;
+}
+.book-15 {
+    width: 200px;
+    height: 300px;
+    position: absolute;
+    top: 1890px;
+    left: 850px;
+}
+.oliga {
+    width: 200px;
+    height: 300px;
+    text-align: left;
+    margin-top: 10px;
+    margin-left: 15px;
+    font-family: fantasy; 
+}
+.yudina {
+    width: 200px;
+    height: 300px;
+    position: absolute;
+    top: 318px;
+    left: 550px;
+    font-family: fantasy; 
+}
+.gritchenco {
+    width: 200px;
+    height: 300px;
+    position: absolute;
+    top: 318px;
+    left: 850px;
+    font-family: fantasy;
+}
+.Kudryavetc {
+    text-align: left;
+    margin-left: 15px;
+    margin-top: 100px;
+    width: 200px;
+    height: 300px;
+    font-family: fantasy;
+}
+.zhadanovska {
+    width: 200px;
+    height: 300px;
+    position: absolute;
+    top: 718px;
+    left: 550px;
+    font-family: fantasy;
+}
+.pikhova {
+    width: 200px;
+    height: 300px;
+    position: absolute;
+    top: 718px;
+    left: 850px;
+    font-family: fantasy;
+}
+.vlacenko {
+    text-align: left;
+    margin-left: 15px;
+    margin-top: 170px;
+    width: 200px;
+    height: 300px;
+    font-family: fantasy;
+}
+.gichco {
+    width: 200px;
+    height: 300px;
+    position: absolute;
+    top: 1089px;
+    left: 550px;
+    font-family: fantasy;
+}
+.kovalenco {
+    width: 200px;
+    height: 300px;
+    position: absolute;
+    top: 1089px;
+    left: 850px;
+    font-family: fantasy;
+}
+ul {
+    color: black;
+    position: absolute;
+    top: 420px;
+    left: 15px;
+}
+.cenral-container {
+    margin-top: 20px;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-bottom: 20px;
+    font-family: 'Adamina', serif;
+    background-color:mediumseagreen ;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+}
+.hide1 {
+    width: 310px;
+    display: none;
+}
+.hide2 {
+    width: 310px;
+    display: none;
+}
+.hide3 {
+    width: 310px;
+    display: none;
+}
+.hide4 {
+    width: 310px;
+    display: none;
+}
+.hide5 {
+    width: 310px;
+    display: none;
+}
+.title {
+   text-align: center;
+}
+.myclass {
+    font-family: 'Adamina', serif;
+    margin-bottom: 0;
+    color:lightblue;
+}
+.epigraf {
+    font-family: 'Lobster', cursive;
+    margin: 0;
+    padding-bottom: 20px;
+    font-size: larger;
+}
+.liceum {
+    width: 850px;
+    height: 200px;
+    margin-left: 250px;
+    background-color: white;
+}
+.flag2 {
+    background-color: yellow;
+}
+.flag1 {
+    background-color: blue;
+}
+.img-1 {
+    width: 250px;
+    height: 170px;
+    float: left;
+    margin-left: 23px;
+    margin-right: 23px;
+    margin-top: 20px;
+    transition: 2s;
+}
+.img-2 {
+    width: 250px;
+    height: 170px;
+    float: right;
+    margin-right: 23px;
+    margin-top: 20px;
+    transition: 2s;
+}
+.img-3 {
+    width: 250px;
+    height: 170px;
+    float: left;
+    margin-left: 23px;
+    margin-right: 23px;
+    margin-top: 20px;
+    transition: 2s;
+}
+.img-4 {
+    width: 250px;
+    height: 170px;
+    float: none;
+    margin-top: 100px;
+    margin-right: 23px;
+    position: absolute;
+    top: 345px;
+    transition: 2s;
+}
+.img-5 {
+    width: 250px;
+    height: 170px;
+    float: right;
+    margin-right: 23px;
+    position: absolute;
+    top: 445px;
+    left: 835px;
+    transition: 2s;
+}
+.img-6 {
+    width: 250px;
+    height: 170px;
+    margin-right: 23px;
+    margin-top: 20px;
+    position: absolute;
+    top: 300px;
+    color: black;
+    font-family: fantasy;
+    text-decoration: none;
+    left: 600px;
+}
+.cenral-container-1 {
+    margin-top: 20px;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-bottom: 20px;
+    font-family: 'Adamina', serif;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+}
+.developer {
+    margin-left: 760px;
+    font-family: fantasy;
+    font-size: large;
+}
+.text {
+    position: absolute;
+    top: 245px;
+    left: 390px;
+    font-family: fantasy;
+    font-size: 20px;
+    color: white;
+}
+.gold {
+    background-color: #f7fd04;
+}
+.orange {
+    background-color: #f9b208;
+}
+.warm {
+    background-color: #f98404;
+}
+.red {
+    background-color: #fc5404;
+}
+.black-green {
+    background-color: #003638;
+}
+.green {
+    background-color: #055052;
+}
+.white-green {
+    background-color: #53b8bb;
+}
+.beige {
+    background-color: #f3f2c9;
+}
+.teal {
+    background-color: #1db9c3;
+}
+.purpure {
+    background-color: #7027a0;
+}
+.pink {
+    background-color: #c32bad;
+}
+.white-pink {
+    background-color: #f56fad;
+}
+.red1 {
+    background-color: #d83a56;
+}
+.white-red {
+    background-color: #ff616d;
+}
+.beige1 {
+    background-color: #ffeac9;
+}
+.green1 {
+    background-color: #66de93;
+}
+.blue {
+    background-color: #0cecdd;
+}
+.yellow {
+    background-color: #fff338;
+}
+.pink1 {
+    background-color: #ff67e7;
+}
+.purpure1 {
+    background-color: #c400ff;
+}
